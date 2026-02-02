@@ -15,36 +15,27 @@
 ## 目次
 
 1. [ポートフォリオについて](#ポートフォリオについて)
-2. [環境](#環境)
+2. [ライセンス](#ライセンス)
 
 ## ポートフォリオについて
 
-<p>Javascriptライブラリを利用したカレンダー（予定表）の実装<br>
-作品URl:https://cat8929.github.io/</p>
+<p>FigmaのAIデザイン機能により作成したWebページをGitHubPagesで公開する<br>
+Figmaは無料プランのみで機能の理解と練習目的<br>
+作品URL:https://cat8929.github.io/cafe/</p>
 
 <p>仕様</p>
 <ul>
-    <li>予定表として閲覧のみが可能</li>
-    <li>予定登録はAPI（外部プログラム）やGoogleカレンダー連携を想定</li>
-    <li>月毎、週毎、日毎の表示の切り替え可能</li>
-    <li>祝日は自動で参照する</li>
+    <li>FigmaDesignのAI機能でデザインする</li>
+    <li>生成されたソースをReactでビルドする</li>
+    <li>GitHubPagesで公開</li>
 </ul>
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
-## 環境
+##　ライセンス
+このFigma Makeファイルには、[shadcn/ui](https://ui.shadcn.com/)([MITライセンス](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md)の下で使用)からのコンポーネントが含まれています。
 
-| 言語・フレームワーク・ライブラリ | バージョン |
-| -------------------------------- | ---------- |
-| Node.js                          | 7.27.1     |
-| Vue                              | 3.5.21     |
-| vuetify                          | 3.10.1     |
-| vite                             | 7.1.5      |
-| fullcalendar/core                | 6.1.20     |
-| fullcalendar/daygrid             | 6.1.20     |
-| fullcalendar/timegrid            | 6.1.20     |
-| fullcalendar/vue3                | 6.1.20     |
+このFigma Makeファイルには、[Unsplash](https://unsplash.com)からの写真が含まれており、[ライセンス](https://unsplash.com/license)の下で使用されています。
 
-ソースリポジトリ：https://github.com/cat8929/vue-cal
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
