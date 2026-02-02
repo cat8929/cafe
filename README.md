@@ -6,10 +6,9 @@
     <img src="https://img.shields.io/badge/-node.js-000000.svg?logo=node.js&style=for-th-bage"/>
     <img src="https://img.shields.io/badge/-vite-000000.svg?logo=vite&style=for-th-bage"/>
     <img src="https://img.shields.io/badge/-react-000000.svg?logo=react&style=for-th-bage"/>
-    <img src="https://img.shields.io/badge/-vuetify-000000.svg?logo=vuetify&style=for-th-bage"/>
+    <img src="https://img.shields.io/badge/-figma-000000.svg?logo=figma&style=for-th-bage"/>
     <img src="https://img.shields.io/badge/-github-000000.svg?logo=github&style=for-th-bage"/>
     <img src="https://img.shields.io/badge/-githubpages-000000.svg?logo=githubpages&style=for-th-bage"/>
-    <img src="https://img.shields.io/badge/-javascript-000000.svg?logo=javascript&style=for-th-bage"/>
     <img src="https://img.shields.io/badge/-typescript-000000.svg?logo=typescript&style=for-th-bage"/>
 </p>
 
